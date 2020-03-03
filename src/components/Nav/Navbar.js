@@ -13,18 +13,8 @@ const Navbar = () => {
           </a>
         </li>
         <li>
-          <a href="/" className="nav-link">
-            About Us
-          </a>
-        </li>
-        <li>
           <a href="/" className="nav-link active">
             Tour
-          </a>
-        </li>
-        <li>
-          <a href="/" className="nav-link">
-            faq
           </a>
         </li>
         <li>
