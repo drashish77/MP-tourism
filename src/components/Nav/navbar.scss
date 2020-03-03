@@ -25,3 +25,8 @@
 .active {
   color: $main-green;
 }
+@media screen and (min-width: 768px) {
+  .nav-link {
+    font-size: 0.8rem;
+  }
+}
